@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Toshith</h1>
 <h3 align="center">A passionate DevOps and full stack developer from India. I am a college student, pursuing BTech in AI & DS. I am also a part of the core team of GDSC SMIT.</h3>
 
-- 🔭 I’m currently working on **2 factor authentication bypass and a social media site**
+- 🔭 I’m currently working with **Neural Networks** and on **Genetic Algorithms**
 
 - 👨‍💻 Some of my projects are available at [toshithh.github.io](toshithh.github.io)
 
