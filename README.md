@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **toshithh@gmail.com**
 
+- 🐺 I'm very fond of huskies.
+
 - 📄 Know about my experiences [toshithh.github.io](toshithh.github.io)
 
 <h3 align="left">Connect with me:</h3>
