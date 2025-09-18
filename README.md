@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Toshith</h1>
+<h1 align="center">I'm Toshith</h1>
 <h3 align="center">An Elite Hacker and a passionate Full Stack Software Engineer from India.</h3>
 I have also developed <a href="https://play.google.com/store/apps/details?id=com.SyNexus.youetme">YouEtMe - The Only App For Couples</a>
 
