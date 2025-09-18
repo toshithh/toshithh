@@ -19,7 +19,7 @@
     <tspan dx="-10" opacity="0"><animate attributeName="opacity" begin="1.68s" dur="0.01s" to="1" fill="freeze"/>h</tspan>
 
 
-    <tspan opacity="0" id="caret">
+    <tspan dx="-10" opacity="0" id="caret">
       |
       <animate attributeName="opacity" values="0;1;0" dur="0.5s" repeatCount="indefinite" begin="1.7999999999999998s"/>
     </tspan>
