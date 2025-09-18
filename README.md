@@ -1,6 +1,5 @@
-<h1 align="center" style="display: inline-flex; align-content: center; align-item: center">
-  Hi 👋, I'm Toshith 
-</h1>
+<img src="./Toshith.svg" style="width: 100%" />
+
 
 <h3 align="center">An Elite Hacker and a passionate Full Stack Software Engineer from India.</h3>
 I have also developed <a href="https://play.google.com/store/apps/details?id=com.SyNexus.youetme">YouEtMe - The App For Couples</a>
