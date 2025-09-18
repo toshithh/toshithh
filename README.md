@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">An Elite Hacker and a passionate Full Stack Software Engineer from India.</h3>
-I have also developed <a href="https://play.google.com/store/apps/details?id=com.SyNexus.youetme">YouEtMe - The Only App For Couples</a>
+I have also developed <a href="https://play.google.com/store/apps/details?id=com.SyNexus.youetme">YouEtMe - The App For Couples</a>
 
 - 👨‍💻 My security Write Ups are available at [Medium](https://toshith29.medium.com/)
 
