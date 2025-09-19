@@ -1,14 +1,17 @@
 <img src="./Toshith.svg" style="width: 100%" />
 
 
-<h3 align="center">An Elite Hacker and a passionate Full Stack Software Engineer from India.</h3>
-I have also developed <a href="https://play.google.com/store/apps/details?id=com.SyNexus.youetme">YouEtMe - The App For Couples</a>
+<h3 align="center">An <a href="https://labs.hackthebox.com/achievement/badge/1290749/217" target="_blank">Elite Hacker</a> and a passionate Full Stack Software Engineer from India.</h3>
+<p align="center"><b>I have also developed <a href="https://play.google.com/store/apps/details?id=com.SyNexus.youetme">YouEtMe - The App For Couples</a></b></p>
+<br />
+Some of my work can be found on GitHub and what can not be found is a s3cr3t!
 
 - 👨‍💻 My security Write Ups are available at [Medium](https://toshith29.medium.com/)
 
 - 🔭 My profile on [Hack The Box](https://app.hackthebox.com/profile/1290749)
 
 - 📄 Know about my experiences - [LinkedIn](https://in.linkedin.com/in/toshith-yadav-816645265)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
