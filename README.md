@@ -12,6 +12,7 @@ Some of my work can be found on GitHub and what can not be found is a s3cr3t!
 
 - 📄 Know about my experiences - [LinkedIn](https://in.linkedin.com/in/toshith-yadav-816645265)
 
+> If you are looking for the typing animation for your own MarkDown, you can find the python script to generate it [here](https://github.com/toshithh/toshithh/blob/main/svg_typing_animation.py).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
