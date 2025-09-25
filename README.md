@@ -1,4 +1,4 @@
-<img src="./Toshith.svg" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/toshithh/toshithh/main/Toshith.svg" style="width: 100%" />
 
 
 <h3 align="center">An <a href="https://labs.hackthebox.com/achievement/badge/1290749/217" target="_blank">Elite Hacker</a> and a passionate Full Stack Software Engineer from India.</h3>
