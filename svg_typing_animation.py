@@ -9,7 +9,7 @@ def typing_svg(text, interval=0.12, spacing=-10):
 
     {content}
 
-    <tspan dx="{spacing} opacity="0" id="caret">
+    <tspan dx="{spacing}" opacity="0" id="caret">
       |
       <animate attributeName="opacity" values="0;1;0" dur="0.5s" repeatCount="indefinite" begin="{len(text)*interval}s"/>
     </tspan>
