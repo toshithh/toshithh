@@ -2,7 +2,7 @@
 
 
 <h3 align="center">An <a href="https://labs.hackthebox.com/achievement/badge/1290749/217" target="_blank">Elite Hacker</a> and a passionate Full Stack Software Engineer from India.</h3>
-<p align="center"><b>I have also developed <a href="https://play.google.com/store/apps/details?id=com.SyNexus.youetme">YouEtMe - The App For Couples</a></b></p>
+<p align="center"><b>To checkout what I have been upto lately, checkout <a href="https://blog.toshith.in">my blog</a></b>.</p>
 <br />
 Some of my work can be found on GitHub and what can not be found is a s3cr3t!
 
