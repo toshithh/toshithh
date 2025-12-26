@@ -6,7 +6,7 @@
 <br />
 Some of my work can be found on GitHub and what can not be found is a s3cr3t!
 
-- 👨‍💻 My security Write Ups are available at [Medium](https://toshith29.medium.com/)
+- 👨‍💻 My security Write Ups and PoCs are available at [Medium](https://toshith29.medium.com/) & my [Personal Blog](https://blog.toshith.in)
 
 - 🔭 My profile on [Hack The Box](https://app.hackthebox.com/profile/1290749)
 
